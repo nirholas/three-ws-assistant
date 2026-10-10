@@ -1,0 +1,19 @@
+# @three-ws/assistant
+
+> A 3D avatar assistant for any website in one script tag. A floating launcher opens a real animated avatar with a chatbot mode (free models or the visitor's own Groq/OpenRouter key) and a speak mode that says whatever you type, out loud, in a speech bubble.
+
+@three-ws/assistant is a JavaScript library from three.ws. Install: `npm install @three-ws/assistant`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-assistant/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-assistant/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-assistant/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-assistant/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-assistant)
+- [npm](https://www.npmjs.com/package/@three-ws/assistant)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-assistant/issues)
