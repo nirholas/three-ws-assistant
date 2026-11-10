@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-assistant",
-      "source": "./",
+      "source": "./plugins/three-ws-assistant",
       "description": "Embed the three.ws 3D avatar assistant widget with chat and speak modes on any website.",
+      "category": "development",
       "tags": [
         "3d",
         "avatar",
