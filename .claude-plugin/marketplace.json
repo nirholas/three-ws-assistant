@@ -1,0 +1,22 @@
+{
+  "name": "three-ws-assistant",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Embed the three.ws 3D avatar assistant widget with chat and speak modes on any website.",
+  "plugins": [
+    {
+      "name": "three-ws-assistant",
+      "source": "./",
+      "description": "Embed the three.ws 3D avatar assistant widget with chat and speak modes on any website.",
+      "tags": [
+        "3d",
+        "avatar",
+        "assistant",
+        "widget",
+        "embed",
+        "chatbot"
+      ]
+    }
+  ]
+}
